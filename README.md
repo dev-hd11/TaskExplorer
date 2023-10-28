@@ -1,5 +1,7 @@
-# TaskExplorer
-
+<div align = "center">
+  <h1> TaskExplorer </h1>
+</div>
+<hr>
 Task Explorer is an advanced Task Manager tool with emphasis on, not just monitoring what applications are running, but on finding out what applications are doing. 
 The UI focuses on expedience and getting real time data of what the processes are doing at any given moment. Relevant data are provided in easy to access (as less clicks as possible) panels, with no need to open windows or windows of sub windows, instead additional information’s for selected entries are shown in the lower half of the panel. Allowing to browse the detailed information’s using arrow keys. And most data are refreshed continuously, as seeing the dynamic of values often grants additional insight.
 
