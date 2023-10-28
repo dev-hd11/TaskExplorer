@@ -24,7 +24,7 @@ Task Explorer is created using the Qt Framework, making its UI platform independ
 The tool is build using the process hacker library and it uses a self-compiled version of the kprocesshacker.sys driver called xprocesshacker.sys, the driver is signed using a “found” code signing certificate. However if preferred by the user the tool can also use the original kprocesshacker.sys driver however then with some limitations as the driver locks some functionality out if the accessing tool is not digitally signed by the process hacker team.
 
 ## Support
-Please support my current big project [PyTextGame](https://www.github.com/dev-hd11/pytextgame)<br>
+Please support my current big project [PyTextGame](https://www.github.com/dev-hd11/pytextgame)<br> - @dev-hd11
 If you like the tool please consider supporting it on Patreon: https://www.patreon.com/DavidXanatos
 
 Icons provided by: http://icons8.com/
